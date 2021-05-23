@@ -8,6 +8,8 @@
 </p>
 
 # Setup
+Tested on Windows and Linux.
+
 ## Requirements
 * Python 3.7 or newer
 
